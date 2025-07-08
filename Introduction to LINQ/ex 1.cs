@@ -42,14 +42,14 @@
 //                           where n % 7 == 0
 //                           orderby n ascending
 //                           select n;
-//        Console.WriteLine("Числа, кратные 7 (по возрастанию):");
+//        Console.WriteLine("Числа, кратные 7:");
 //        PrintCollection(multiplesOf7);
 
 //        var multiplesOf8 = from n in numbers
 //                           where n % 8 == 0
 //                           orderby n descending
 //                           select n;
-//        Console.WriteLine("Числа, кратные 8 (по убыванию):");
+//        Console.WriteLine("Числа, кратные 8:");
 //        PrintCollection(multiplesOf8);
 //    }
 
