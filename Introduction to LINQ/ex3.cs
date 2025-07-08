@@ -68,7 +68,7 @@
 //                            where s.Institution == "Oxford" && s.Age > 18
 //                            orderby s.Age descending
 //                            select s;
-//        Console.WriteLine("\nСтуденты из Oxford старше 18 (по убыванию возраста):");
+//        Console.WriteLine("\nСтуденты из Oxford старше 18:");
 //        PrintCollection(oxfordOlder18);
 //    }
 
