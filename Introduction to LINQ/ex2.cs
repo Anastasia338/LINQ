@@ -47,7 +47,7 @@
 //                           where c.StartsWith("Ne", StringComparison.OrdinalIgnoreCase)
 //                           orderby c descending
 //                           select c;
-//        Console.WriteLine("\nГорода, начинающиеся на Ne (по убыванию):");
+//        Console.WriteLine("\nГорода, начинающиеся на Ne :");
 //        PrintCollection(startsNeDesc);
 //    }
 
